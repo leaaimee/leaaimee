@@ -8,7 +8,7 @@ Always excited to learn something new & always interested in exciting projects<b
 <br>
 ## Languages
 <br>Python<br>
-(it's just the beginning)
+*It's just the beginning. There is far more to come...*
 <br>
 <br>
 
@@ -17,7 +17,7 @@ Always excited to learn something new & always interested in exciting projects<b
 <br>
 <br>
 ## Visual Background
-Brand Design - Image Editing - Video Editing - 3D-Modeling - Texturing - Visual Effects<br>
+Brand Design - Image Editing - Video Editing - 3D Modeling - Texturing - Visual Effects<br>
 <br>
 <br>
 **Software of choice**
