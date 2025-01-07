@@ -1,12 +1,15 @@
-### Lea Aimee
+Welcome to the page of
 
-### 💫 About Me
+# Lea Aimée 💫
+</br>
 
-I am currently in Transition into "Software Development"<br>
+I am currently in transition into "Software Development"<br>
 Always excited to learn something new & always interested in exciting projects<br>
-
+<br>
 ## Languages
 <br>Python<br>
+(it's just the beginning)
+<br>
 <br>
 
 ## 💻 Tech Stack
@@ -16,15 +19,16 @@ Always excited to learn something new & always interested in exciting projects<b
 ## Visual Background
 Brand Design - Image Editing - Video Editing - 3D-Modeling - Texturing - Visual Effects<br>
 <br>
-## Software of choice
+<br>
+**Software of choice**
 
 Adopbe Photoshop - Adopbe After Effects - Adopbe Illustrator<br/>
-Foundry Nuke -- Foundry Mari<br/>
+Foundry Nuke - Foundry Mari<br/>
 Autodesk Maya - Blender<br/>
 <br>
 
 ## Places I call home most
-Berlin, Brussels & Thessaloniki
+Berlin - Brussels - Thessaloniki
 
 <br>
 <br>
@@ -40,8 +44,9 @@ Berlin, Brussels & Thessaloniki
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leaaimee_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lea-aimee-84a35943/) 
 <br>
 <br>
-<br>Favorite Quote<br>"The only way to do great work is to love what you do"<br>
-<i>Steve Jobs<br></i>
+### Favorite Quote
+<br>"The only way to do great work is to love what you do"<br>
+*Steve Jobs*<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leaaimee&icon=0&color=3)](https://visitcount.itsvg.in)
