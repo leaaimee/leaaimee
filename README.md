@@ -44,9 +44,6 @@ Berlin - Brussels - Thessaloniki
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leaaimee_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lea-aimee-84a35943/) 
 <br>
 <br>
-### Favorite Quote
-<br>"The only way to do great work is to love what you do"<br>
-*Steve Jobs*<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leaaimee&icon=0&color=3)](https://visitcount.itsvg.in)
