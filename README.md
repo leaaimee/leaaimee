@@ -1,4 +1,4 @@
-### Welcome to my page 💫
+### Welcome to my digital me 💫
 
 </br>
 Curious, passionate, and committed - always ready to learn & create</br>
