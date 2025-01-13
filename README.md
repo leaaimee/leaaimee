@@ -27,10 +27,11 @@ That’s why I’m now transitioning along the path I’ve always been drawn to 
 
 **Software of choice**
 
-- Adopbe: Photoshop, After Effects, Illustrator
-- Foundry: Nuke, Mari
-- Autodesk: Maya
-- Blender
+- Video Editing: Foundry Nuke, Adobe After Effects, DaVinci Resolve
+- 3D Modeling: Autodesk Maya, Blender
+- Texturing: Foundry Mari, Substance Painter
+- Image Editing: Adobe Photoshop
+
 <br>
 
 ### Places I call home 🌍
